@@ -8,3 +8,5 @@
 # sudo chmod -R ugo+rwX
 # git push origin HEAD:master
 # git push origin dev
+# oci 教學
+# https://izo.tw/oracle-cloud-oci/
