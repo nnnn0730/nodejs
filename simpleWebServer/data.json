@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "productName": "Fresh Avocados",
+        "image": "🥑",
+        "from": "Spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": "4 🥑",
+        "price": "6.50",
+        "organic": true,
+        "descreiption": "Hi"
+    },
+    {
+        "id": 1,
+        "productName": "Sweet Corncobs",
+        "image": "🌽",
+        "from": "Germany",
+        "nutrients": "Vitamin C, Magmesium",
+        "quantity": "2 🌽",
+        "price": "2.00",
+        "organic": false,
+        "descreiption": "Hi"
+    },
+    {
+        "id": 2,
+        "productName": "Goat and Sheep Cheese",
+        "image": "🧀",
+        "from": "Portugal",
+        "nutrients": "Vitamin A, Calcium",
+        "quantity": "250g",
+        "price": "5.00",
+        "organic": false,
+        "descreiption": "Hi"
+    },
+    {
+        "id": 3,
+        "productName": "Apollo Braccoli",
+        "image": "🥦",
+        "from": "Portugal",
+        "nutrients": "Vitamin C, Vitamin K",
+        "quantity": "3 🥦",
+        "price": "5.50",
+        "organic": true,
+        "descreiption": "Hi"
+    }
+]
